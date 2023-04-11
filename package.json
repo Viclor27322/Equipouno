@@ -1,14 +1,22 @@
 {
-  "name": "apis",
+  "name": "equipouno",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000p\u0000r\u0000o\u0000y\u0000e\u0000c\u0000t\u0000o\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Viclor27322/Equipouno.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Viclor27322/Equipouno/issues"
+  },
+  "homepage": "https://github.com/Viclor27322/Equipouno#readme",
   "dependencies": {
     "cloudinary": "^1.35.0",
     "cors": "^2.8.5",
